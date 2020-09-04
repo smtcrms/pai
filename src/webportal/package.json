@@ -76,7 +76,7 @@
     "morgan": "~1.9.0",
     "node-sass": "~4.7.2",
     "office-ui-fabric-react": "^6.143.0",
-    "papaparse": "^4.6.3",
+    "papaparse": "^5.2.0",
     "postcss-import": "^12.0.1",
     "postcss-loader": "^3.0.0",
     "prop-types": "^15.7.2",
