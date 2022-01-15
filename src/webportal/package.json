@@ -68,7 +68,7 @@
     "json-loader": "~0.5.7",
     "luxon": "^1.11.3",
     "markdown-loader": "~2.0.1",
-    "marked": "~0.3.9",
+    "marked": "~4.0.10",
     "mini-css-extract-plugin": "^0.5.0",
     "mkdirp": "^0.5.1",
     "monaco-editor": "~0.16.1",
