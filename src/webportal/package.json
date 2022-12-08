@@ -50,7 +50,7 @@
     "eslint": "~4.18.2",
     "eslint-config-google": "~0.9.1",
     "eslint-plugin-react": "^7.12.4",
-    "express": "~4.16.2",
+    "express": "~4.17.3",
     "file-loader": "~1.1.5",
     "floatthead": "~2.0.3",
     "font-awesome": "~4.7.0",
